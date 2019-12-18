@@ -1,2 +1,2 @@
-# DHCP-PowerShell-Tools
-Scripts to Manage DHCP via PowerShell
+# DHCPMacMonitor
+Script to Monitor DHCP Servers for leases assigned to a list of specified MACs.
